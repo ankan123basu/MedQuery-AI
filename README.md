@@ -21,6 +21,9 @@ MedQuery AI is an intelligent document processing system designed specifically f
 
 <img width="1919" height="907" alt="Screenshot 2025-07-18 183144" src="https://github.com/user-attachments/assets/ab0afa62-536e-40cc-aa0a-a4db14233e99" />
 
+<img width="1786" height="901" alt="image" src="https://github.com/user-attachments/assets/79d30f34-64b1-4c75-921f-cf37eb4cd481" />
+
+
 ## 🚀 Features
 
 - **Document Processing**: Handles PDFs and images (PNG, JPG, JPEG)
