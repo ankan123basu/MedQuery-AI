@@ -1,4 +1,16 @@
-# MedQuery AI - Medical Document Query System
+<div align="center">
+
+# 🏥 MedQuery AI
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Flask-44CC11)](https://flask.palletsprojects.com/)
+[![AI](https://img.shields.io/badge/AI-Gemini%202.0-FF6F00)](https://ai.google/discover/gemini/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.0.335-00A67D)](https://python.langchain.com/)
+
+### Intelligent Medical Document Processing and Query System
+
+</div>
 
 MedQuery AI is an intelligent document processing system designed specifically for medical and insurance documents. It uses advanced AI to extract, process, and answer questions from uploaded documents with high accuracy.
 
@@ -143,10 +155,68 @@ python app/app.py
 - Custom document processing pipeline for better control over performance
 - Minimal abstraction layer between Gemini and the application
 
-## 📝 License
+## 🛡️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2025 Ankan Basu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## ✨ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Python, Flask |
+| **AI/ML** | Google Gemini, LangChain |
+| **OCR** | Tesseract, OpenCV |
+| **Vector DB** | ChromaDB |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Deployment** | (Specify if any) |
+
+</div>
 
 ## 📬 Contact
 
-For support or questions, please open an issue in the repository.
+For support, questions, or collaboration opportunities, please feel free to reach out:
+
+- 📧 Email: [Your Email]
+- 💼 LinkedIn: [Your LinkedIn]
+- 🌐 GitHub: [@ankan123basu](https://github.com/ankan123basu)
+
+## 👨‍💻 Developer
+
+<div align="center">
+
+Made with ❤️ by **Ankan Basu**  
+Undergraduate Student  
+[Lovely Professional University](https://www.lpu.in/)  
+Punjab, India
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankan123basu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
