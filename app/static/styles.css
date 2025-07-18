@@ -1,0 +1,95 @@
+/* Main container styling */
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #1a1a2e;
+    color: #e6e6e6;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #4cc9f0;
+    margin: 20px 0;
+    font-size: 2.5em;
+}
+
+/* Chat container */
+.chat-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #16213e;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Message styling */
+.message {
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    max-width: 80%;
+    word-wrap: break-word;
+}
+
+.user-message {
+    background-color: #4cc9f0;
+    color: #1a1a2e;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.bot-message {
+    background-color: #f72585;
+    color: white;
+    margin-right: auto;
+    margin-left: 0;
+}
+
+/* Input area */
+.input-area {
+    display: flex;
+    margin-top: 20px;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #4cc9f0;
+    border-radius: 4px 0 0 4px;
+    background-color: #1a1a2e;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4cc9f0;
+    color: #1a1a2e;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #3aa8d4;
+}
+
+/* Document upload area */
+.upload-area {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #1a1a2e;
+    border-radius: 5px;
+    border: 1px dashed #4cc9f0;
+}
+
+/* Status messages */
+#status {
+    margin-top: 10px;
+    color: #4cc9f0;
+    font-size: 0.9em;
+}
