@@ -202,8 +202,8 @@ SOFTWARE.
 
 For support, questions, or collaboration opportunities, please feel free to reach out:
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [ankanbasu10@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/ankan-basu-595152271/]
 - 🌐 GitHub: [@ankan123basu](https://github.com/ankan123basu)
 
 ## 👨‍💻 Developer
@@ -216,7 +216,5 @@ Undergraduate Student
 Punjab, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankan123basu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-basu-595152271/)
 </div>
