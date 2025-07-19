@@ -15,6 +15,12 @@
 MedQuery AI is an intelligent document processing system designed specifically for medical and insurance documents. It uses advanced AI to extract, process, and answer questions from uploaded documents with high accuracy.
 <img width="1917" height="976" alt="Screenshot 2025-07-18 160424" src="https://github.com/user-attachments/assets/51ecf1aa-403e-4e1e-be76-f576ea62f7a6" />
 
+<img width="1919" height="866" alt="Screenshot 2025-07-20 023019" src="https://github.com/user-attachments/assets/6f391d32-c671-48ed-9135-a63dfe46b972" />
+
+<img width="1919" height="888" alt="Screenshot 2025-07-20 024605" src="https://github.com/user-attachments/assets/2986fa3c-bda1-44e8-b678-af1bbd1cd162" />
+
+<img width="1919" height="864" alt="Screenshot 2025-07-20 025012" src="https://github.com/user-attachments/assets/41d0ce74-d213-44ba-8a58-887e75ad6cf9" />
+
 <img width="1775" height="830" alt="image" src="https://github.com/user-attachments/assets/ebd49a09-b59a-4006-a39c-aaca465bce36" />
 
 <img width="1919" height="908" alt="Screenshot 2025-07-18 192344" src="https://github.com/user-attachments/assets/49777167-6183-432b-a7fe-797eaab4b705" />
